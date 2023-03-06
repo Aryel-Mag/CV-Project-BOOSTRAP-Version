@@ -1,0 +1,49 @@
+.parallax{
+   height: 30vh;
+
+   background-attachment: fixed; 
+   background-size: cover; 
+   background-position:top ; 
+   background-repeat: no-repeat; 
+
+   background-image:url(../resources/backgrnd.png)
+}
+
+body{
+   background-color: #6B7B8C;
+   color:#EF9D10 ;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-1{
+   margin: 1em;
+}
+
+.navbar-1 a{
+   text-decoration: none;
+   color:#EF9D10 ;
+}
+
+#contact a{
+   color:#EF9D10 ;
+}
+
+.bar-color{
+   background-color: #EF9D10;
+}
+
+.text-orange{
+   color: #EF9D10;
+}
+
+#experiences h1{
+   display: flex;
+   justify-content: center;
+   margin-top: 30px;
+}
+
+#achievements h1{
+   display: flex;
+   justify-content: center;
+   margin-top: 30px;
+}
